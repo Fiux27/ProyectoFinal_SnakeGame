@@ -9,3 +9,5 @@ Mejoras implementadas:
 -Mejora en el sistema de puntaje.
 -Se añadio un sistema de reinicio de partida.
 -Y se cambio la pantalla de game over
+
+Todo se empleo en java tomando como referencia el programa base y apartir de ahi dar fin al proyecto final
